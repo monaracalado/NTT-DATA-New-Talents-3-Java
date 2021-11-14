@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/01 - pilha/pom.xml" />
+        <option value="$PROJECT_DIR$/02 - fila/pom.xml" />
+        <option value="$PROJECT_DIR$/03 - lista encadeada/pom.xml" />
+        <option value="$PROJECT_DIR$/04 - lista duplamente encadeada/pom.xml" />
+        <option value="$PROJECT_DIR$/05 - listacircular/pom.xml" />
+        <option value="$PROJECT_DIR$/06 - arvore binaria/pom.xml" />
+        <option value="$PROJECT_DIR$/07 - equals hashcode/pom.xml" />
+        <option value="$PROJECT_DIR$/08 - stack/pom.xml" />
+        <option value="$PROJECT_DIR$/09 - queue (Fila, LikedList)/pom.xml" />
+        <option value="$PROJECT_DIR$/10 - list (ArrayList)/pom.xml" />
+        <option value="$PROJECT_DIR$/11 - set (HashSet)/pom.xml" />
+        <option value="$PROJECT_DIR$/12 - map (HashMap)/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

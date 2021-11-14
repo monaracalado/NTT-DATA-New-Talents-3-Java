@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="listaencadeada" />
+        <module name="stack" />
+        <module name="set" />
+        <module name="pilha" />
+        <module name="fila" />
+        <module name="listacircular" />
+        <module name="arvorebinaria" />
+        <module name="list" />
+        <module name="listaduplamenteencadeada" />
+        <module name="map" />
+        <module name="equalshashcode" />
+        <module name="queue" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="arvorebinaria" target="16" />
+      <module name="equalshashcode" target="7" />
+      <module name="fila" target="16" />
+      <module name="list" target="7" />
+      <module name="listacircular" target="16" />
+      <module name="listaduplamenteencadeada" target="16" />
+      <module name="listaencadeada" target="16" />
+      <module name="map" target="7" />
+      <module name="pilha" target="16" />
+      <module name="queue" target="7" />
+      <module name="set" target="7" />
+      <module name="stack" target="7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

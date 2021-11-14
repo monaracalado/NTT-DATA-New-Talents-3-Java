@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Estrutura de dados em Java.iml" filepath="$PROJECT_DIR$/.idea/Estrutura de dados em Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 - arvore binaria/arvorebinaria.iml" filepath="$PROJECT_DIR$/06 - arvore binaria/arvorebinaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 - equals hashcode/equalshashcode.iml" filepath="$PROJECT_DIR$/07 - equals hashcode/equalshashcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02 - fila/fila.iml" filepath="$PROJECT_DIR$/02 - fila/fila.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10 - list (ArrayList)/list.iml" filepath="$PROJECT_DIR$/10 - list (ArrayList)/list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 - listacircular/listacircular.iml" filepath="$PROJECT_DIR$/05 - listacircular/listacircular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04 - lista duplamente encadeada/listaduplamenteencadeada.iml" filepath="$PROJECT_DIR$/04 - lista duplamente encadeada/listaduplamenteencadeada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03 - lista encadeada/listaencadeada.iml" filepath="$PROJECT_DIR$/03 - lista encadeada/listaencadeada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12 - map (HashMap)/map.iml" filepath="$PROJECT_DIR$/12 - map (HashMap)/map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01 - pilha/pilha.iml" filepath="$PROJECT_DIR$/01 - pilha/pilha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 - queue (Fila, LikedList)/queue.iml" filepath="$PROJECT_DIR$/09 - queue (Fila, LikedList)/queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11 - set (HashSet)/set.iml" filepath="$PROJECT_DIR$/11 - set (HashSet)/set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08 - stack/stack.iml" filepath="$PROJECT_DIR$/08 - stack/stack.iml" />
+    </modules>
+  </component>
+</project>
